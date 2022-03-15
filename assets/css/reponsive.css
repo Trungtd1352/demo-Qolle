@@ -1,0 +1,1126 @@
+/* Mobile */
+@media (max-width: 575px) {
+    .header__fix{
+        position: unset;
+        transform: none;
+        visibility: unset;
+        max-height: 80px;
+        line-height: 8rem;
+    }
+
+    .header__logo{
+        max-height: 3rem;
+    }
+
+    #banner,.banner__container{
+        height: 440px;
+    }
+
+    .header__fix.sticky{
+        visibility: hidden;
+    }
+
+    .banner__top{
+        margin: 0 20px;
+    }
+
+    .team__card-list-iteam{
+        width: 90%;
+        padding: 2rem;
+    }
+
+    .team__card-list-iteam img{
+        width: 100%;
+        height: 260px;
+    }
+
+    .video1 i{
+        top: 26%;
+    }
+
+    .header__logo{
+        padding-left: 20px;
+    }
+
+    .container__skills-img2,
+    .video__1,.video__2,
+    .faq__right1,.faq__right3,
+    .faq__right4,.faq__right5,
+    .container__skills-img4,
+    .container__skills-img5,
+    .container__skills-img6{
+        display: none;
+    }
+
+    .container__skills{
+        margin-bottom: 59px;
+    }
+
+    .services{
+        padding: 7.2rem 0 9rem;
+    }
+
+    .services__top{
+        margin-bottom: 4rem;
+    }
+
+    .services__main-top-hover{
+        padding: 12.4rem 0 !important;
+        margin: 0 !important;
+    }
+
+    .faq__right2{
+        width: 100%;
+        margin-top: 8rem;
+        position: unset;
+        padding: 0 26px 0 20px;
+    }
+
+    .container__whyus > h1{
+        font-size: 2.8rem;
+        line-height: 3.6rem;
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    .container__whyus > p{
+        margin: 20px 0 80px 0;
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+        color: #5c6185;
+    }
+
+    #container {
+        margin-top: 72px;
+    }
+
+    .container__review-title{
+        position: inherit;
+        margin-bottom: 34px;
+    }
+
+    .video{
+        height: 180px;
+        top: -89px;
+    }
+
+    .container__skills-img-box{
+        height: auto;
+    }
+
+    .cta{
+        margin-top: 8rem;
+    }
+
+    .team__card-container{
+        top: 38%;
+        width: 90%;
+    }
+
+    .team__title{
+        padding-top: 73px;
+    }
+
+    .team__title >h1{
+        font-size: 2.8rem;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .team__title >h4{
+        font-size: 1.6rem;
+    }
+
+    .faq__left{
+        width: 340px;
+    }
+
+    .faq__left>h4{
+        font-size: 1.6rem;
+    }
+
+    .faq__content-p{
+        line-height: 1.6rem;
+        font-weight: 600;
+        cursor: pointer;
+        height: 5rem;
+        font-size: 1.6rem;
+    }
+
+    .pricing>h1{
+        font-size: 28px;
+        line-height: 36px;
+        padding-top: 7.2rem;
+    }
+
+    .pricing__left{
+        padding-bottom: 50px;
+        margin-bottom: -19px;
+    }
+
+    .pricing>h4{
+        padding-bottom: 3rem;
+    }
+
+    .faq__content i{
+        line-height: 0rem;
+    }
+
+    .faq{
+        margin-top: 299px;
+        margin-bottom: -100px;
+    }
+
+    .bar{
+        z-index: 1000;
+    }
+
+    .video i{
+        top: 24%;
+    }
+
+    .container__review1 {
+        margin: 0;
+    }
+
+    .container__skills-img1{
+        left: 0;
+        top: -54%;
+        width: 97.8%;
+    }
+
+    .content__left{
+        width: 100%;
+    }
+
+    .content__left> h1{
+        margin-top: -156px;
+        padding-left: 1.5rem;
+        font-size: 3.8rem;
+        line-height: 4.9rem;
+    }
+
+    .content__left> p{
+        padding-left: 2rem;
+        font-weight: 600;
+        font-size: 1.6rem;
+        line-height: 3rem;
+    }
+
+    .content__left button{
+        width: 171px;
+        padding: 0;
+    }
+
+    .content__left button i{
+        padding-right: 0;
+    }
+
+    .content__left-btn{
+        padding-left: 2rem;
+    }
+
+    .container__review1{
+        margin-bottom: 8rem;
+        padding: 0 15px;
+    }
+
+    .container__skills-img{
+        margin-top: -10rem;
+    }
+
+    .skill__container{
+        padding-top: 2.6rem;
+    }
+
+    .container__skills-content{
+        padding-left: 2rem;
+        padding-top: 28rem;
+    }
+
+    .container__skills-content > h1{
+        font-size: 2.8rem;
+        line-height: 3.6rem;
+    }
+
+    .container__skills-content > h4{
+        font-size: 1.6rem;
+        padding-top: 23px;
+        padding-bottom: 13px;
+    }
+
+    .container__skills-content > p{
+        color: #5C6185 !important;
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .skill-title,.parseInt1{
+        font-size: 1.6rem;
+    }
+
+    .container__review{
+        margin-top: -4rem;
+    }
+
+    .services__top>div>h1{
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .services__top h4{
+        font-size: 1.6rem;
+    }
+
+    .services__main-top-after::after{
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        background-color: #666;
+        left: 0;
+        bottom: 0;
+    }
+
+    .services__main-top-after:last-child:after{
+        width: 0;
+    }
+
+    .video {
+        margin: 15rem 2rem 0; 
+    }
+    .team{
+        margin-top: 32.6rem;
+    }
+
+   .faq__left{
+       padding-left : 2rem;
+   }
+
+   .faq__left>h1{
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .fact{
+        margin-top: 9rem;
+        padding: 0 2rem;
+    }
+
+    .fact__conatiner >div{
+        margin-bottom: 3.5rem;
+    }
+
+    .video1{
+        bottom: -57px;
+        height: 176px;
+    }
+
+    .pricing{
+        margin-top: 50rem;
+        padding: 0 2rem;
+    }
+
+    .pricing__card{
+        margin: 0;
+        flex-wrap: wrap;
+    }
+
+    .pricing__main{
+        margin: 6rem 0 2rem ;
+    }
+
+    #footer h2{
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .cta__left>h1{
+        font-size: 2.8rem;
+        line-height: 4.2rem;
+        padding-top: 6rem;
+    }
+
+    .services__main-top-hover{
+        margin-top: 113px;
+    }
+
+    .cta__left{
+        padding-left: 2rem;
+    }
+
+    .cta__top{
+        padding-top: 26px;
+        margin-top: -175px;
+        margin-left: 1rem;
+    }
+
+    .cta__top>p::after{
+        left: 8.4px;
+        top: 26.4px;    
+    }
+
+    .cta__right>button{
+        margin-left: 1.2rem;
+        margin-top: 1.1rem;
+    }
+
+    .cta__right{
+        padding-bottom: 54px;
+    }
+
+    #footer{
+        padding-left: 2rem;
+    }
+
+    #footer img{
+        padding-top: 2rem;
+    }
+    
+    .Quick-Link>h2{
+        padding-top: 5rem;
+    }
+
+    .follow>i{
+        padding: 0 .5rem;
+    }
+
+    .faq__right6{
+        width: 200%;
+        left: -55%;
+        top: -500px
+    }
+
+    .container__whyus,.container__whyus>h1,.container__whyus>p{
+        padding: 0;
+    }
+
+    .container__review{
+        padding-left: 0;
+    }
+
+    .container__review .slick-track{
+        left: 0;
+    }
+
+    .footer__email span{
+        display: flex;
+        padding: 10px 13px;
+    }
+
+    .footer__email span i{
+        line-height: 2.5rem;
+    }
+
+    .trailer video{
+        width: 100%;
+    }
+
+    .video2{
+        width: 100%;
+    }
+}
+/* small tablet */
+
+@media (min-width:576px) and (max-width: 739px){
+    .header__fix{
+        position: unset;
+        transform: none;
+        visibility: unset;
+        max-height: 80px;
+        line-height: 8rem;
+    }
+    
+    .trailer video{
+        width: 100%;
+    }
+
+    .header__logo{
+        max-height: 3rem;
+    }
+
+    #banner,.banner__container{
+        height: 440px;
+    }
+
+    .header__fix.sticky{
+        visibility: hidden;
+    }
+
+    .banner__top{
+        margin: 0 20px;
+    }
+
+    .team__card-list-iteam{
+        width: 90%;
+        padding: 2rem;
+    }
+
+    .team__card-list-iteam img{
+        width: 100%;
+    }
+
+    .video1 i{
+        top: 26%;
+    }
+
+    .header__logo{
+        padding-left: 20px;
+    }
+
+    .container__skills-img2,
+    .video__1,.video__2,
+    .faq__right1,.faq__right3,
+    .faq__right4,.faq__right5,
+    .container__skills-img4,
+    .container__skills-img5,
+    .container__skills-img6{
+        display: none;
+    }
+
+    .container__skills{
+        margin-bottom: 59px;
+    }
+
+    .services{
+        padding: 7.2rem 0 9rem;
+    }
+
+    .services__top{
+        margin-bottom: 4rem;
+    }
+
+    .services__main-top-hover{
+        padding: 12.4rem 0 !important;
+        margin: 0 !important;
+    }
+
+    .faq__right2{
+        width: 100%;
+        margin-top: 8rem;
+        position: unset;
+        padding: 0 26px 0 20px;
+    }
+
+    .container__whyus > h1{
+        font-size: 2.8rem;
+        line-height: 3.6rem;
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    .container__whyus > p{
+        margin: 20px 0 80px 0;
+        font-size: 1.6rem;
+        line-height: 3.2rem;
+        color: #5c6185;
+    }
+
+    #container {
+        margin-top: 72px;
+    }
+
+    .container__review-title{
+        position: inherit;
+        margin-bottom: 34px;
+    }
+
+    .video{
+        height: 180px;
+        top: -89px;
+    }
+
+    .container__skills-img-box{
+        height: auto;
+    }
+
+    .cta{
+        margin-top: 8rem;
+    }
+
+    .team__card-container{
+        top: 38%;
+        width: 90%;
+    }
+
+    .team__title{
+        padding-top: 73px;
+    }
+
+    .team__title >h1{
+        font-size: 2.8rem;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .team__title >h4{
+        font-size: 1.6rem;
+    }
+
+    .faq__content-p{
+        line-height: 1.6rem;
+        font-weight: 600;
+        cursor: pointer;
+        height: 5rem;
+        font-size: 1.6rem;
+    }
+
+    .faq__content{
+        width: 96%;
+    }
+
+    .pricing>h1{
+        font-size: 28px;
+        line-height: 36px;
+        padding-top: 7.2rem;
+    }
+
+    .pricing__left{
+        padding-bottom: 50px;
+        margin-bottom: -19px;
+    }
+
+    .pricing>h4{
+        padding-bottom: 3rem;
+    }
+
+    .faq__content i{
+        line-height: 2rem;
+    }
+
+    .faq{
+        margin-top: 299px;
+        margin-bottom: -100px;
+    }
+
+    .bar{
+        z-index: 1000;
+    }
+
+    .video i{
+        top: 24%;
+    }
+
+    .container__review1 {
+        margin: 0;
+    }
+
+    .container__skills-img1{
+        left: 0;
+        top: -54%;
+        width: 97.8%;
+    }
+
+    .content__left{
+        width: 100%;
+    }
+
+    .content__left> h1{
+        margin-top: -156px;
+        padding-left: 1.5rem;
+        font-size: 3.8rem;
+        line-height: 4.9rem;
+    }
+
+    .content__left> p{
+        padding-left: 2rem;
+        font-weight: 600;
+        font-size: 1.6rem;
+        line-height: 3rem;
+    }
+
+    .content__left button{
+        width: 171px;
+        padding: 0;
+    }
+
+    .content__left button i{
+        padding-right: 0;
+    }
+
+    .content__left-btn{
+        padding-left: 2rem;
+    }
+
+    .container__review1{
+        margin-bottom: 8rem;
+        padding: 0 15px;
+    }
+
+    .container__skills-img{
+        margin-top: -10rem;
+    }
+
+    .skill__container{
+        padding-top: 2.6rem;
+    }
+
+    .container__skills-content{
+        padding-left: 2rem;
+        padding-top: 50.5rem;
+    }
+
+    .container__skills-content > h1{
+        font-size: 2.8rem;
+        line-height: 3.6rem;
+    }
+
+    .container__skills-content > h4{
+        font-size: 1.6rem;
+        padding-top: 23px;
+        padding-bottom: 13px;
+    }
+
+    .container__skills-content > p{
+        color: #5C6185 !important;
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .skill-title,.parseInt1{
+        font-size: 1.6rem;
+    }
+
+    .container__review{
+        margin-top: -4rem;
+    }
+
+    .services__top>div>h1{
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .services__top h4{
+        font-size: 1.6rem;
+    }
+
+    .services__main-top-after::after{
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        background-color: #666;
+        left: 0;
+        bottom: 0;
+    }
+
+    .services__main-top-after:last-child:after{
+        width: 0;
+    }
+
+    .video {
+        margin: 15rem 2rem 0; 
+    }
+    .team{
+        margin-top: 32.6rem;
+    }
+
+   .faq__left{
+       padding-left : 2rem;
+       width: 100%;
+   }
+
+   .faq__left>h1{
+        font-size: 35px;
+        line-height: 36px;
+    }
+
+    .fact{
+        margin-top: 9rem;
+        padding: 0 2rem;
+    }
+
+    .fact__conatiner >div{
+        margin-bottom: 3.5rem;
+    }
+
+    .video1{
+        bottom: -57px;
+        height: 176px;
+    }
+
+    .pricing{
+        margin-top: 74rem;
+        padding: 0 2rem;
+    }
+
+    .pricing__card{
+        margin: 0;
+        flex-direction: column;
+    }
+
+    .pricing__main{
+        margin: 6rem 0 2rem ;
+    }
+
+    #footer h2{
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .cta__left>h1{
+        font-size: 2.8rem;
+        line-height: 4.2rem;
+        padding-top: 6rem;
+    }
+
+    .services__main-top-hover{
+        margin-top: 113px;
+    }
+
+    .cta__left{
+        padding-left: 2rem;
+    }
+
+    .cta__top{
+        padding-top: 26px;
+        margin-top: -175px;
+        margin-left: 1rem;
+    }
+
+    .cta__top>p::after{
+        left: 8.4px;
+        top: 26.4px;    
+    }
+
+    .cta__right>button{
+        margin-left: 1.2rem;
+        margin-top: 1.1rem;
+    }
+
+    .cta__right{
+        padding-bottom: 54px;
+    }
+
+    #footer{
+        padding-left: 2rem;
+    }
+
+    #footer img{
+        padding-top: 2rem;
+    }
+    
+    .Quick-Link>h2{
+        padding-top: 5rem;
+    }
+
+    .follow>i{
+        padding: 0 .5rem;
+    }
+
+    .faq__right6{
+        width: 200%;
+        left: -55%;
+        top: -500px
+    }
+
+    .container__whyus,.container__whyus>h1,.container__whyus>p{
+        padding: 0;
+    }
+
+    .container__review{
+        padding-left: 0;
+    }
+
+    .container__review .slick-track{
+        left: 0;
+    }
+
+    .footer__email span{
+        display: flex;
+        padding: 10px 13px;
+    }
+
+    .footer__email span i{
+        line-height: 2.5rem;
+    }
+
+    .video2{
+        width: 100%;
+    }
+}
+
+/* Tablet */
+
+@media (min-width:740px) and (max-width: 1023px){
+    .header__fix{
+        position: unset;
+        transform: none;
+        visibility: unset;
+    }
+
+    .trailer video{
+        width: 100%;
+    }
+
+    .video2{
+        width: 100%;
+    }
+
+    .team__title{
+        padding-top: 490px;
+    }
+
+    .team__card-container{
+        top: 70.3%;
+    }
+
+    .faq{
+        margin-top: 357px;  
+    }
+
+    .header__fix.sticky{
+        visibility: hidden;
+    }
+
+    .bar{
+        z-index: 1000;
+    }
+
+    .container__whyus,.container__whyus>h1,.container__whyus>p{
+        padding: 0;
+    }
+
+    #container{
+        margin-top: -153px;
+    }
+
+    .container__skills-img2,
+    .content__right-img,
+    .video__1,.video__2,
+    .faq__right1,.faq__right3,
+    .faq__right4,.faq__right5,
+    .container__skills-img4,
+    .container__skills-img5,
+    .container__skills-img6{
+        display: none;
+    }
+
+    .container__whyus > p{
+        margin: 17px 0 46px 0;
+    }
+
+    .container__skills{
+        margin-top: -56px;
+    }
+
+    .faq__right2{
+        width: 100%;
+        position: unset;
+    }
+
+    .banner__top{
+        margin: 0 20px;
+    }
+    .content__left>h1{
+        font-size: 5rem;
+        margin-top: 9px;  
+    }
+
+    .container__review{
+        padding-left: 0;
+    }
+
+    .container__review .slick-track{
+        left: 0;
+    }
+
+    .skill__container{
+        margin-top: 33px;
+    }
+
+    .container__skills-img-box{
+        position: relative;
+        left: -31px;
+    }
+
+    .container__skills-img1{
+        z-index: 3;
+        left: -17%;
+        width: 369px;
+        top: 5%;
+    }
+
+    .container__skills-img3{
+        left: -245px;
+        width: 200%;
+        z-index: -1;
+    }
+
+    .faq__right6{
+        width: 300%;
+        left: -88%;
+        top: -18%;
+    }
+
+    .container__skills-content{
+        padding-left: 4rem;
+    }
+
+    .container__skills-content >h1{
+        font-size: 3.5rem;
+        line-height: 4.2rem;
+    }
+
+    .services{
+        padding: 8.4rem 0 13rem
+    }
+
+    .services__top{
+        margin-bottom: 54px;
+    }
+
+    .services__boder{
+        border-width: 0 !important;
+    }
+
+    .fact__conatiner-content{
+        margin-bottom: 3.5rem;
+    }
+
+    .video1{
+        bottom: -76px;
+        height: 390px;
+    }
+
+    .fact{
+        margin-top: 104px;
+        margin-bottom: -338px;
+    }
+
+    .video{
+        height: 390px;
+    }
+
+    .container__skills-content >p{
+        font-size: 1.6rem;
+    }
+
+    .container__skills-img2{
+        z-index: 2;
+        left: 53px
+    }
+
+    .services__main-top-after1:last-child::after{
+        border: none;
+    }
+
+    .faq__right3{
+        left: 0;
+    }
+
+    .faq__left{
+        width: 352px;
+    }
+
+    .faq__left>h1{
+        font-size: 4rem;
+    }
+
+    .faq__content-p{
+        line-height: 2rem;
+        height: 6rem;
+    }
+
+    .faq__content i{
+        line-height: 0rem;
+    }
+
+    .pricing{
+        margin-top: -1rem;
+    }
+
+    .pricing__card{
+        margin: 0;
+    }
+
+    .pricing__left,.pricing__main,.pricing__right{
+        height: 100%;
+    }
+
+    .pricing>h1{
+        padding-top: 76px;
+    }
+
+    .pricing__card button{
+        display: flex;
+        padding: 11px 5px;
+    }
+
+    .cta{
+        margin-top: -39px;
+    }
+
+    .pricing__main{
+        padding-bottom: 40px;
+    }
+
+    .pricing__left,.pricing__right{
+        padding-bottom: 16px;
+    }
+
+    .pricing__card button i{
+        line-height: 2.1rem;
+    }
+
+    .grid.wide{
+        width: 100%;
+    }
+
+    .cta__right{
+        padding-bottom: 5rem;
+    }
+
+    .pricing>h4{
+        padding-bottom: 49px;
+    }
+
+    .cta__left{
+        padding-left: 2rem;
+    }
+
+    #footer{
+        padding-left: 2rem;
+    }
+
+    .Quick-Link-space{
+        margin-top: 3rem;
+    }
+
+    .cta__top{
+        margin-top: -145px;
+        margin-left: 10px;
+    }
+
+    .cta__top>p::after{
+        left: 8px;
+        top: 27px;
+    }
+
+    .cta__right>button{
+        margin-left: 1.2rem;
+    }
+
+    .banner__container{
+        height: 695px;
+    }
+
+    .content__left>h1{
+        margin-top: -47px;
+    }
+
+    .header__logo{
+        max-height: 3rem;
+        padding-left: 3rem;
+    }
+
+    .content__left >p{
+        padding: 10px 0 32px 0;
+    }
+
+    .content__left{
+        padding-left: 3rem;
+    }
+}
+
+
